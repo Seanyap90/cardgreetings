@@ -13,7 +13,7 @@ https://github.com/Seanyap90/cardgreetings/assets/34641712/95724199-53ae-404f-99
 
 ## Credits
 
-Thanks :- [@jmorganca] for ollama.  It is a great library to start doing things with LLM!
-Thanks :- [@nikitalogos] for his birthday greetings AI project to give inspiration on how I could build this project.
+Thanks @jmorganca for ollama.  It is a great library to start doing things with LLM!
+Thanks @nikitalogos for his birthday greetings AI project to give inspiration on how I could build this project.
 
 
